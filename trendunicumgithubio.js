@@ -1,4 +1,4 @@
-﻿var t = "eurasica.ru";
+﻿var t = "europica.ru";
 var params = "fse";
 var _var = trendunicumgithubio;
 
